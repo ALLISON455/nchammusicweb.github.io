@@ -1,0 +1,421 @@
+body{
+ background-colo: #7a8e1c;
+ margin: 0px;
+}
+
+
+
+.top1{
+ color: white;
+ background-color: black;
+ font-weight: 400;
+ text-decoration: none;
+ font-family:sans-serif;
+ font-style: normal;
+ height: 22px;
+ 
+	
+	
+}
+
+.logo{
+    border-radius: 90%;
+    height: 60px;
+    position: relative;
+    top: 8px;
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: white;
+  overflow: hidden;
+	padding-bottom: 30px;
+	font-weight: 600;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: righ;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: add;
+  color: #a3ab17;
+  font-size: 17px;
+}
+
+/* Add a color to the active/current link */
+.topnav a.nactive2 {
+  background-color: add;
+  color: #a3ab17;
+	
+}
+
+
+
+.active{
+     position: relative;
+     left: 400px;
+	  position: relative;
+     bottom: 19px;
+	
+}
+
+.nactive1{
+     position: relative;
+     left: 400px;
+	  position: relative;
+     bottom: 19px;
+}
+
+
+.nactive2{
+     position: relative;
+     left: 400px;
+	  position: relative;
+     bottom: 19px;
+}
+
+.nactive3{
+     position: relative;
+     left: 400px;
+	  position: relative;
+     bottom: 19px;
+}
+
+
+.bg-image{
+height: 800px;
+width: 100%;
+border: 0px;
+}
+
+.weeklyalbum{
+	color:#a3ab17;
+	font-size: 30px;
+	font-weight: 400;
+   font-family:serif;
+	position: relative;
+	left: 530px;
+	width:200px;
+	bottom: 300px;
+}
+
+.Just-Released{
+	color:black;
+	font-size: 70px;
+	font-weight: 400;
+	position: relative;
+	left: 450px;
+	width:500px;
+	bottom: 300px;
+}
+
+.txt1-bg{
+	color:#a3ab17;
+	font-size: 30px;
+	font-weight: 600;
+   font-family:serif;
+	position: relative;
+	bottom: 600px;
+   left: 120px;
+	width:200px;
+}
+
+.txt2-bg{
+   font-size: 90px;
+   line-height: 1.19;
+	color:white;
+	font-weight: 1000;
+   font-family:serif;
+	position: relative;
+	bottom: 600px;
+   left: 120px;
+	width:700px;
+}
+
+/*This is for the first girl picture with the guitar*/
+.picturesection1{
+	position: relative;
+	left: 120px
+
+}
+
+.picturesection1,h1{
+	width:320px;
+}
+
+.girlpicture1{
+    height: 350px;
+    width: 300px;
+	 }
+/*End*/
+
+
+/*This is for the second picture with the boy having a head set and hands up guitar*/
+.picturesection2{
+	position: relative;
+	left: 538px;
+	bottom: 440px;
+}
+
+.girlpicture2{
+    height: 350px;
+    width: 300px;
+	
+}
+.picturesection2,h1{
+	width:320px;
+}
+
+/*End*/
+
+/*This is for the second picture with the boy having a head set and hands up guitar*/
+.picturesection3{
+	position: relative;
+	left: 958px;
+	bottom: 880px;
+}
+
+.girlpicture3{
+    height: 350px;
+    width: 300px;
+	
+}
+
+
+.the3images{
+	position: relative;
+	bottom: 370px;
+	width: 400px;	
+	height:400px
+}
+
+/*End*/
+
+/*second background image down*/
+.bg-image2{
+height: 1000px;
+width: 100%;
+border: 0px;
+position: relative;
+bottom: 230px;
+opacity: 0.5;
+}
+
+.bg-imageuntop{
+height: 600px;
+width: 452px;
+border: 0px;
+position: relative;
+left: 60px;
+bottom: 580px;
+border-radius: 8px;
+opacity: 0.9;
+}
+
+.wecreate{	
+	color:black;
+	font-size: 23px;
+	font-weight: 600;
+   font-family:serif;
+	position: relative;
+	left: 800px;
+	width:400px;
+	bottom: 1700px;
+	border: solid #181818;
+	opacity: 0.9;
+}
+
+.musics{
+position: relative;	
+bottom: 60px;
+height: 50px
+
+}
+
+#myVideo {
+  right: 0;
+  min-width: 100%; 
+  }
+
+.video{
+	position: relative;
+	bottom: 900px;
+	height: 100%;
+
+}
+
+/* The form*/
+form {
+  position: relative;
+  top:300px;
+  margin-left: 0px;
+  margin-right: 0px;
+  height:1000px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-image: url('noiseporn-JNuKyKXLh8U-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+}
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+input[type="text"], input[type="email"], input[type="tel"]{
+  display: block;
+  width: 50%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+}
+
+
+
+button {
+  display: block;
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+/* Pseudo classes */
+input:focus {
+  outline: none;
+  box-shadow: 0 0 5px #4CAF50;
+}
+
+/* Z-index and opacity */
+label::after {
+  content: "*";
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  color: red;
+  z-index: 0.4;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+input:required + label::after {
+  opacity: 0.4;
+}
+button:hover {
+  background-color: #3e8e41;
+}
+/* End*/
+
+.bg-imagebottom{
+	position: relative;
+	width: 100%;
+	height: 100%;	
+}
+
+.textb4video2{
+color: #a3ab17;
+font-size: 40px;
+font-weight: bolder;	
+height: 70px;
+width: 280px;
+position: relative;
+bottom: 0px;
+left: 90px;
+border: solid #181818;
+}
+
+.textb4video3{
+color: black;
+font-size: 30px;
+font-weight: bolder;	
+height: 50px;
+width: 200px;
+position: relative;	
+left: 43%;
+top: 5px;
+border: solid #a3ab17;
+}
+
+.textb4video4{
+color: black;
+font-size: 30px;
+font-weight: bolder;	
+height: 70px;
+width: 200px;
+position: relative;
+top: 65px;
+left: 43%;
+border: solid #a3ab17;
+}
+
+.textb4video5{
+color: black;
+font-size: 30px;
+font-weight: bolder;	
+height: 70px;
+width: 250px;
+position: relative;
+top: 60px;
+left: 40%;
+border: solid #a3ab17;
+}
+
+
+.toplineimg{
+margin-top: 0px;
+width: 100%;
+height: 20px;
+
+	
+}
+
+.liveconcertsimg{
+margin: 0px;
+width: 100%;
+height: 700px;	
+margin-top: 0px;
+
+}
+
+.beatcreationimg{
+margin-top: 120px;
+width: 100%;	
+	
+}
+
+.audioengineeringimg{
+margin-top: 120px;
+width: 100%;	
+
+	
+}
+
+footer {
+  background-color: black;
+  color: #a3ab17;
+  text-align: center;
+  padding: 10px;
+  margin: 0px;
+ 
+}
+
+
+
+
+

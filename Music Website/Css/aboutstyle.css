@@ -1,0 +1,260 @@
+body{
+ background-colo: #7a8e1c;
+ margin: 0px;
+}
+
+
+
+.top1{
+ color: white;
+ background-color: black;
+ font-weight: 400;
+ text-decoration: none;
+ font-family:sans-serif;
+ font-style: normal;
+ height: 22px;
+ 
+	
+	
+}
+
+.logo{
+    border-radius: 90%;
+    height: 60px;
+    position: relative;
+    top: 8px;
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: white;
+  overflow: hidden;
+	padding-bottom: 30px;
+	font-weight: 600;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: righ;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: add;
+  color: #a3ab17;
+  font-size: 17px;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: add;
+  color: #a3ab17;
+	
+}
+
+
+
+.active{
+     position: relative;
+     left: 400px;
+	  position: relative;
+     bottom: 19px;
+	
+}
+
+.nactive1{
+     position: relative;
+     left: 400px;
+	  position: relative;
+     bottom: 19px;
+}
+
+
+.nactive2{
+     position: relative;
+     left: 400px;
+	  position: relative;
+     bottom: 19px;
+}
+
+.nactive3{
+     position: relative;
+     left: 400px;
+	  position: relative;
+     bottom: 19px;
+}
+
+.color{
+	height: 800px;
+	background-color:black;
+  	position: relative;
+	bottom: px;
+	border: 0px;
+	opacity: 0.7;
+	}
+
+
+.bg-image{
+height: 800px;
+	width: 800px;
+border: 0px;
+position: relative;
+bottom: 800px;
+opacity: 0.9;
+border-radius: 500px;
+}
+
+.textonbg{
+color: white;
+font-size: 55px;
+font-style: oblique;
+font-weight: bolder;	
+height: 100px;
+width: 500px;
+position: relative;
+bottom: 1400px;
+left: 850px
+}
+
+.textonbg1{
+color: white;
+font-size: 30px;
+font-style: oblique;
+font-weight: bolder;	
+height: 100px;
+width: 500px;
+position: relative;
+bottom: 1250px;
+left: 850px
+	
+	
+}
+
+.about{
+color: black;
+font-size: 30px;
+font-style: oblique;
+font-weight: bolder;	
+height: 70px;
+width: 200px;
+position: relative;
+left: 880px;
+bottom: 1400px;
+color: #a3ab17;
+}
+
+
+.textb4video{
+color: #a3ab17;
+font-size: 55px;
+font-weight: bolder;	
+height: 100px;
+width: 500px;
+position: relative;
+bottom: 900px;
+left: 570px
+}
+
+
+#myVideo {
+  right: 0;
+  min-width: 100%; 
+  }
+
+.video{
+	position: relative;
+	bottom: 900px;
+	height: 100%;
+}
+
+.textb4video1{
+color: #a3ab17;
+font-size: 55px;
+font-weight: bolder;	
+height: 100px;
+width: 500px;
+position: relative;
+bottom: 30px;
+left:50px	
+}
+
+/*This is for the first girl picture with the guitar*/
+.picturesection1{
+	position: relative;
+	left: 120px
+
+}
+
+.picturesection1,h1{
+	width:320px;
+}
+
+.girlpicture1{
+    height: 350px;
+    width: 300px;
+	 }
+/*End*/
+
+
+/*This is for the second picture with the boy having a head set and hands up guitar*/
+.picturesection2{
+	position: relative;
+	left: 538px;
+	bottom: 440px;
+}
+
+.girlpicture2{
+    height: 350px;
+    width: 300px;
+	
+}
+.picturesection2,h1{
+	width:320px;
+}
+
+/*End*/
+
+/*This is for the second picture with the boy having a head set and hands up guitar*/
+.picturesection3{
+	position: relative;
+	left: 958px;
+	bottom: 880px;
+}
+
+.girlpicture3{
+    height: 350px;
+    width: 300px;
+	
+}
+
+
+.the3images{
+	position: relative;
+	bottom: 400px;
+	width: 300px;	
+	height:400px
+}
+
+
+footer {
+  background-color: black;
+  color: #a3ab17;
+  text-align: center;
+  padding: 10px;
+  margin: 0px;
+ 
+}
+
+
+
+
+
+
+
